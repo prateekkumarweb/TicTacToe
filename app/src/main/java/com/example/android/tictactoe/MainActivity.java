@@ -14,7 +14,6 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-// Updated to compile this activity
 public class MainActivity extends AppCompatActivity {
 
     TicTacToeGame ticTacToeGame;
